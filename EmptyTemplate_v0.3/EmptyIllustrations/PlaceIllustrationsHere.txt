@@ -1,6 +1,6 @@
 Images, Images are really easy, you get your image in here and in your html you use
 
-<img src="Img_Link/URL" alt="Failed to load>
+<img src="Img_Link/URL" alt="Failed to load">
 Img_Link => will usually look like ../EmptyIllustrations/ImageName
                                     /EmptyIllustrations/ImageName
                                 Based on where your file Images
