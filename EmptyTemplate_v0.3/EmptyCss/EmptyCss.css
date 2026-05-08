@@ -1,0 +1,12 @@
+/*Here you can Manage the layout of your website */
+* {
+    /* Here you basically set your "standard", it is the root and with this you can work with em */
+}
+
+body {
+    /* Is empty right now but here you change the entire website. */
+    /*The changes made here can be overriden in more local sections of your css */
+}
+
+/*You can name your own parts of your html mainly in form of Classes and Ids
+Classes can be re-used per page and ids cannot */
