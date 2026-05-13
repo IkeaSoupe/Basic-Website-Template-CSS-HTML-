@@ -1,0 +1,17 @@
+If you want to you fonts
+@Fontface is how you make fonts in here accesible
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(//Here goes the Href/Link//);
+}
+
+then you can call it like this
+
+div {
+  font-family: myFirstFont;
+}
+
+
+Make sure your font file type is on of the following:
+TTF/OTF WOFF WOFF2.
